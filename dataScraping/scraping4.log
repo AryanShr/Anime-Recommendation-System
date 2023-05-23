@@ -1,0 +1,20 @@
+2023-05-19 18:32:02,624 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:32:06,247 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:32:12,123 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:32:22,053 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:32:41,198 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:33:13,205 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=20011
+2023-05-19 18:51:45,459 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:51:51,971 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:51:58,702 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:52:09,889 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:52:28,768 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:53:00,774 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=20011
+2023-05-19 23:38:29,220 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:38:33,822 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:38:41,475 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:38:52,484 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 14:41:04,398 ERROR:HTTPSConnectionPool(host='myanimelist.net', port=443): Max retries exceeded with url: /anime/52816/Majo_to_Yajuu/stats (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000254CBA6B190>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2023-05-20 14:43:19,040 ERROR:HTTPSConnectionPool(host='myanimelist.net', port=443): Max retries exceeded with url: /anime/48418/Maou_Gakuin_no_Futekigousha__Shijou_Saikyou_no_Maou_no_Shiso_Tensei_shite_Shison-tachi_no_Gakkou_e_Kayou_II_Part_2/stats (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000254CBE078E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2023-05-20 14:48:59,581 ERROR:HTTPSConnectionPool(host='myanimelist.net', port=443): Max retries exceeded with url: /anime/51160/Minna_no_Douyou__Warera_wa_Umi_no_Ko_-_Minna_de_Utau_Uta/stats (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000254CB2B2D30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2023-05-20 15:30:48,178 ERROR:('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))

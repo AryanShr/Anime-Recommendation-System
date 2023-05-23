@@ -1,0 +1,720 @@
+2023-05-19 18:37:24,852 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:38:29,345 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:39:30,931 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:40:37,556 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:41:45,426 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:42:17,441 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=5327
+2023-05-19 18:54:52,062 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:54:54,380 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=5667
+2023-05-19 18:54:58,867 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=5667
+2023-05-19 18:55:07,044 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=5667
+2023-05-19 18:55:23,229 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=5667
+2023-05-19 18:55:55,236 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=5667
+2023-05-19 19:01:31,947 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:02:09,288 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:02:59,885 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:03:54,320 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:04:55,288 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:05:27,294 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=5763
+2023-05-19 19:19:24,888 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:19:55,499 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:20:29,095 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:20:59,218 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:21:42,704 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:22:14,716 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=5983
+2023-05-19 19:33:14,971 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:33:46,564 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:34:11,058 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:34:40,465 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:35:23,144 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 19:35:55,154 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6143
+2023-05-19 20:07:01,429 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:07:10,756 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:07:23,379 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:07:49,492 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:08:13,124 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:08:45,125 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6238
+2023-05-19 20:18:43,757 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:19:27,700 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:19:42,431 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:19:42,618 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6363
+2023-05-19 20:19:42,838 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6363
+2023-05-19 20:19:42,838 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6363
+2023-05-19 20:20:46,129 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6450
+2023-05-19 20:20:46,837 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6450
+2023-05-19 20:20:47,763 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6450
+2023-05-19 20:20:48,314 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6450
+2023-05-19 20:20:48,677 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6450
+2023-05-19 20:20:48,678 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6450
+2023-05-19 20:20:49,192 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6500
+2023-05-19 20:20:49,591 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6500
+2023-05-19 20:20:49,920 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6500
+2023-05-19 20:20:50,268 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6500
+2023-05-19 20:20:50,600 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6500
+2023-05-19 20:20:50,600 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6500
+2023-05-19 20:20:50,882 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6550
+2023-05-19 20:20:51,509 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6550
+2023-05-19 20:20:52,303 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6550
+2023-05-19 20:20:59,526 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6550
+2023-05-19 20:21:00,169 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6550
+2023-05-19 20:21:00,169 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6550
+2023-05-19 20:21:00,467 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6600
+2023-05-19 20:21:01,596 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6600
+2023-05-19 20:35:15,775 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:36:53,756 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:38:03,760 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:39:15,462 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:40:24,696 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:40:24,696 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6500
+2023-05-19 20:40:37,517 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:40:48,545 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:40:59,970 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:41:08,304 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:41:18,172 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:41:18,172 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6550
+2023-05-19 20:41:52,477 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:41:52,841 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6600
+2023-05-19 20:41:53,236 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6600
+2023-05-19 20:41:53,508 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6600
+2023-05-19 20:41:53,766 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6600
+2023-05-19 20:41:53,766 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6600
+2023-05-19 20:41:53,993 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6650
+2023-05-19 20:41:54,264 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6650
+2023-05-19 20:41:54,535 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6650
+2023-05-19 20:41:54,776 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6650
+2023-05-19 20:41:55,070 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6650
+2023-05-19 20:41:55,070 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6650
+2023-05-19 20:41:55,394 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6700
+2023-05-19 20:41:55,670 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6700
+2023-05-19 20:41:56,000 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6700
+2023-05-19 20:41:56,257 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6700
+2023-05-19 20:41:56,568 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6700
+2023-05-19 20:41:56,568 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6700
+2023-05-19 20:41:56,816 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6750
+2023-05-19 20:41:57,073 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6750
+2023-05-19 20:41:57,479 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6750
+2023-05-19 20:41:57,759 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6750
+2023-05-19 20:41:58,009 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6750
+2023-05-19 20:41:58,010 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6750
+2023-05-19 20:41:58,314 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6800
+2023-05-19 20:41:58,557 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6800
+2023-05-19 20:41:58,820 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6800
+2023-05-19 20:41:59,106 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6800
+2023-05-19 20:41:59,335 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6800
+2023-05-19 20:41:59,335 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6800
+2023-05-19 20:41:59,608 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6850
+2023-05-19 20:41:59,877 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6850
+2023-05-19 20:42:00,186 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6850
+2023-05-19 20:42:00,430 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6850
+2023-05-19 20:42:00,695 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6850
+2023-05-19 20:42:00,695 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6850
+2023-05-19 20:42:00,957 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6900
+2023-05-19 20:42:01,204 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6900
+2023-05-19 20:42:22,454 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 20:42:22,744 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6900
+2023-05-19 20:42:23,114 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6900
+2023-05-19 20:42:23,114 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6900
+2023-05-19 20:42:23,371 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6950
+2023-05-19 20:42:23,654 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6950
+2023-05-19 20:42:23,989 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6950
+2023-05-19 20:42:24,612 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6950
+2023-05-19 20:42:25,049 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=6950
+2023-05-19 20:42:25,049 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6950
+2023-05-19 20:42:25,827 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7000
+2023-05-19 20:42:26,399 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7000
+2023-05-19 20:42:26,743 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7000
+2023-05-19 20:42:27,014 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7000
+2023-05-19 20:42:27,345 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7000
+2023-05-19 20:42:27,345 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7000
+2023-05-19 20:42:27,670 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7050
+2023-05-19 20:42:27,945 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7050
+2023-05-19 20:42:28,409 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7050
+2023-05-19 20:42:28,768 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7050
+2023-05-19 20:42:30,060 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7050
+2023-05-19 20:42:30,060 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7050
+2023-05-19 20:42:30,309 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7100
+2023-05-19 20:42:30,578 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7100
+2023-05-19 20:42:30,850 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7100
+2023-05-19 20:42:31,123 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7100
+2023-05-19 20:42:31,382 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7100
+2023-05-19 20:42:31,383 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7100
+2023-05-19 20:42:31,654 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7150
+2023-05-19 20:42:31,963 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7150
+2023-05-19 20:42:32,250 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7150
+2023-05-19 20:42:32,499 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7150
+2023-05-19 20:42:33,088 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7150
+2023-05-19 20:42:33,088 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7150
+2023-05-19 20:42:33,399 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7200
+2023-05-19 20:42:33,653 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7200
+2023-05-19 20:42:33,948 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7200
+2023-05-19 20:42:34,204 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7200
+2023-05-19 20:42:34,493 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7200
+2023-05-19 20:42:34,493 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7200
+2023-05-19 20:42:34,742 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7250
+2023-05-19 20:42:35,019 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7250
+2023-05-19 20:42:35,264 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7250
+2023-05-19 20:42:35,589 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7250
+2023-05-19 20:42:35,935 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7250
+2023-05-19 20:42:35,935 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7250
+2023-05-19 20:42:36,860 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7300
+2023-05-19 20:42:38,190 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7300
+2023-05-19 20:42:38,439 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7300
+2023-05-19 20:42:38,740 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7300
+2023-05-19 20:42:38,974 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7300
+2023-05-19 20:42:38,974 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7300
+2023-05-19 20:42:39,264 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7350
+2023-05-19 20:42:39,520 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7350
+2023-05-19 20:42:39,744 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7350
+2023-05-19 20:42:40,027 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7350
+2023-05-19 20:42:40,290 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7350
+2023-05-19 20:42:40,290 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7350
+2023-05-19 20:42:40,817 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7400
+2023-05-19 20:42:41,379 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7400
+2023-05-19 20:42:41,743 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7400
+2023-05-19 20:42:42,144 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7400
+2023-05-19 20:42:42,854 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7400
+2023-05-19 20:42:42,855 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7400
+2023-05-19 20:42:43,205 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7450
+2023-05-19 20:42:43,458 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7450
+2023-05-19 20:42:43,746 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7450
+2023-05-19 20:42:44,023 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7450
+2023-05-19 20:42:44,332 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7450
+2023-05-19 20:42:44,332 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7450
+2023-05-19 20:42:44,644 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7500
+2023-05-19 20:42:44,980 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7500
+2023-05-19 20:42:45,594 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7500
+2023-05-19 20:42:45,862 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7500
+2023-05-19 20:42:46,106 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7500
+2023-05-19 20:42:46,106 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7500
+2023-05-19 20:42:46,449 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7550
+2023-05-19 20:42:46,698 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7550
+2023-05-19 20:42:46,955 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7550
+2023-05-19 20:42:47,225 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7550
+2023-05-19 20:42:47,540 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7550
+2023-05-19 20:42:47,540 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7550
+2023-05-19 20:42:47,797 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7600
+2023-05-19 20:42:48,139 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7600
+2023-05-19 20:42:48,398 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7600
+2023-05-19 20:42:48,679 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7600
+2023-05-19 20:42:48,955 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7600
+2023-05-19 20:42:48,955 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7600
+2023-05-19 20:42:49,486 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7650
+2023-05-19 20:42:50,363 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7650
+2023-05-19 20:42:50,635 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7650
+2023-05-19 20:42:50,908 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7650
+2023-05-19 20:42:51,189 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7650
+2023-05-19 20:42:51,190 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7650
+2023-05-19 20:42:51,443 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7700
+2023-05-19 20:42:51,763 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7700
+2023-05-19 20:42:52,036 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7700
+2023-05-19 20:42:52,318 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7700
+2023-05-19 20:42:52,588 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7700
+2023-05-19 20:42:52,589 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7700
+2023-05-19 20:42:52,834 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7750
+2023-05-19 20:42:53,289 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7750
+2023-05-19 20:42:53,644 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7750
+2023-05-19 20:42:54,295 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7750
+2023-05-19 20:42:54,637 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7750
+2023-05-19 20:42:54,637 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7750
+2023-05-19 20:42:54,898 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7800
+2023-05-19 20:42:55,161 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7800
+2023-05-19 20:42:55,507 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7800
+2023-05-19 20:42:55,793 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7800
+2023-05-19 20:42:56,046 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7800
+2023-05-19 20:42:56,046 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7800
+2023-05-19 20:42:56,366 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7850
+2023-05-19 20:42:56,625 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7850
+2023-05-19 20:42:56,867 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7850
+2023-05-19 20:42:57,128 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7850
+2023-05-19 20:42:57,836 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7850
+2023-05-19 20:42:57,836 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7850
+2023-05-19 20:42:58,066 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7900
+2023-05-19 20:42:58,315 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7900
+2023-05-19 20:42:58,537 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7900
+2023-05-19 20:42:58,791 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7900
+2023-05-19 20:42:59,123 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7900
+2023-05-19 20:42:59,124 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7900
+2023-05-19 20:42:59,413 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7950
+2023-05-19 20:42:59,661 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7950
+2023-05-19 20:43:00,922 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7950
+2023-05-19 20:43:01,159 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7950
+2023-05-19 20:43:01,394 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=7950
+2023-05-19 20:43:01,394 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7950
+2023-05-19 20:43:01,661 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8000
+2023-05-19 20:43:01,914 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8000
+2023-05-19 20:43:02,148 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8000
+2023-05-19 20:43:02,671 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8000
+2023-05-19 20:43:02,921 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8000
+2023-05-19 20:43:02,921 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8000
+2023-05-19 20:43:03,160 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8050
+2023-05-19 20:43:03,399 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8050
+2023-05-19 20:43:03,720 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8050
+2023-05-19 20:43:03,957 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8050
+2023-05-19 20:43:04,207 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8050
+2023-05-19 20:43:04,207 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8050
+2023-05-19 20:43:04,498 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8100
+2023-05-19 20:43:04,753 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8100
+2023-05-19 20:43:05,010 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8100
+2023-05-19 20:43:05,281 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8100
+2023-05-19 20:43:05,642 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8100
+2023-05-19 20:43:05,642 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8100
+2023-05-19 20:43:05,871 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8150
+2023-05-19 20:43:06,166 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8150
+2023-05-19 20:43:06,446 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8150
+2023-05-19 20:43:07,322 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8150
+2023-05-19 20:43:07,597 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8150
+2023-05-19 20:43:07,597 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8150
+2023-05-19 20:43:07,857 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8200
+2023-05-19 20:43:08,106 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8200
+2023-05-19 20:43:08,368 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8200
+2023-05-19 20:43:08,598 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8200
+2023-05-19 20:43:08,883 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8200
+2023-05-19 20:43:08,883 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8200
+2023-05-19 20:43:09,211 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8250
+2023-05-19 20:43:09,457 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8250
+2023-05-19 20:43:09,702 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8250
+2023-05-19 20:43:09,968 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8250
+2023-05-19 20:43:10,286 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8250
+2023-05-19 20:43:10,286 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8250
+2023-05-19 20:43:10,587 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8300
+2023-05-19 20:43:10,864 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8300
+2023-05-19 20:43:11,172 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8300
+2023-05-19 20:43:11,472 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8300
+2023-05-19 20:43:11,723 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8300
+2023-05-19 20:43:11,723 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8300
+2023-05-19 20:43:11,962 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8350
+2023-05-19 20:43:12,222 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8350
+2023-05-19 20:43:12,458 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8350
+2023-05-19 20:43:12,711 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8350
+2023-05-19 20:43:12,946 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8350
+2023-05-19 20:43:12,946 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8350
+2023-05-19 20:43:13,217 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8400
+2023-05-19 20:43:13,519 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8400
+2023-05-19 20:43:13,770 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8400
+2023-05-19 20:43:14,112 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8400
+2023-05-19 20:43:14,353 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8400
+2023-05-19 20:43:14,353 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8400
+2023-05-19 20:43:14,605 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8450
+2023-05-19 20:43:14,880 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8450
+2023-05-19 20:43:15,227 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8450
+2023-05-19 20:43:15,699 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8450
+2023-05-19 20:43:15,948 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8450
+2023-05-19 20:43:15,948 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8450
+2023-05-19 20:43:16,206 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8500
+2023-05-19 20:43:16,456 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8500
+2023-05-19 20:43:16,712 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8500
+2023-05-19 20:43:16,973 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8500
+2023-05-19 20:43:17,229 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8500
+2023-05-19 20:43:17,229 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8500
+2023-05-19 20:43:17,492 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8550
+2023-05-19 20:43:17,926 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8550
+2023-05-19 20:43:18,201 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8550
+2023-05-19 20:43:18,481 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8550
+2023-05-19 20:43:18,776 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8550
+2023-05-19 20:43:18,776 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8550
+2023-05-19 20:43:19,047 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8600
+2023-05-19 20:43:19,291 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8600
+2023-05-19 20:43:19,575 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8600
+2023-05-19 20:43:19,813 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8600
+2023-05-19 20:43:20,096 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8600
+2023-05-19 20:43:20,096 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8600
+2023-05-19 20:43:20,331 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8650
+2023-05-19 20:43:20,570 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8650
+2023-05-19 20:43:20,852 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8650
+2023-05-19 20:43:21,097 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8650
+2023-05-19 20:43:21,361 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8650
+2023-05-19 20:43:21,361 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8650
+2023-05-19 20:43:21,633 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8700
+2023-05-19 20:43:21,912 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8700
+2023-05-19 20:43:22,152 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8700
+2023-05-19 20:43:22,412 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8700
+2023-05-19 20:43:22,650 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8700
+2023-05-19 20:43:22,650 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8700
+2023-05-19 20:43:22,890 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8750
+2023-05-19 20:43:23,157 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8750
+2023-05-19 20:43:23,394 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8750
+2023-05-19 20:43:23,625 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8750
+2023-05-19 20:43:23,876 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8750
+2023-05-19 20:43:23,876 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8750
+2023-05-19 20:43:24,134 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8800
+2023-05-19 20:43:24,372 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8800
+2023-05-19 20:43:24,631 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8800
+2023-05-19 20:43:24,874 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8800
+2023-05-19 20:43:25,166 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8800
+2023-05-19 20:43:25,166 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8800
+2023-05-19 20:43:25,433 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8850
+2023-05-19 20:43:25,699 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8850
+2023-05-19 20:43:25,966 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8850
+2023-05-19 20:43:26,215 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8850
+2023-05-19 20:43:26,538 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8850
+2023-05-19 20:43:26,538 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8850
+2023-05-19 20:43:26,819 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8900
+2023-05-19 20:43:27,124 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8900
+2023-05-19 20:43:27,348 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8900
+2023-05-19 20:43:27,631 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8900
+2023-05-19 20:43:28,193 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8900
+2023-05-19 20:43:28,193 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8900
+2023-05-19 20:43:28,451 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8950
+2023-05-19 20:43:28,692 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8950
+2023-05-19 20:43:28,982 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8950
+2023-05-19 20:43:29,289 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8950
+2023-05-19 20:43:29,532 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=8950
+2023-05-19 20:43:29,532 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8950
+2023-05-19 20:43:29,793 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9000
+2023-05-19 20:43:30,071 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9000
+2023-05-19 20:43:30,356 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9000
+2023-05-19 20:43:30,668 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9000
+2023-05-19 20:43:30,979 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9000
+2023-05-19 20:43:30,979 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9000
+2023-05-19 20:43:31,342 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9050
+2023-05-19 20:43:31,703 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9050
+2023-05-19 20:43:32,272 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9050
+2023-05-19 20:43:32,604 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9050
+2023-05-19 20:43:32,847 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9050
+2023-05-19 20:43:32,847 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9050
+2023-05-19 20:43:33,103 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9100
+2023-05-19 20:43:33,366 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9100
+2023-05-19 20:43:33,625 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9100
+2023-05-19 20:43:33,881 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9100
+2023-05-19 20:43:34,157 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9100
+2023-05-19 20:43:34,157 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9100
+2023-05-19 20:43:34,401 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9150
+2023-05-19 20:43:34,647 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9150
+2023-05-19 20:43:34,895 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9150
+2023-05-19 20:43:35,156 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9150
+2023-05-19 20:43:35,430 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9150
+2023-05-19 20:43:35,430 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9150
+2023-05-19 20:43:35,725 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9200
+2023-05-19 20:43:36,000 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9200
+2023-05-19 20:43:36,382 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9200
+2023-05-19 20:43:36,745 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9200
+2023-05-19 20:43:36,997 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9200
+2023-05-19 20:43:36,997 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9200
+2023-05-19 20:43:37,332 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9250
+2023-05-19 20:43:37,662 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9250
+2023-05-19 20:43:37,933 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9250
+2023-05-19 20:43:38,179 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9250
+2023-05-19 20:43:38,445 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9250
+2023-05-19 20:43:38,445 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9250
+2023-05-19 20:43:38,675 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9300
+2023-05-19 20:43:38,916 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9300
+2023-05-19 20:43:39,194 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9300
+2023-05-19 20:43:39,461 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9300
+2023-05-19 20:43:39,716 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9300
+2023-05-19 20:43:39,716 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9300
+2023-05-19 20:43:40,047 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9350
+2023-05-19 20:43:40,350 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9350
+2023-05-19 20:43:41,037 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9350
+2023-05-19 20:43:41,319 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9350
+2023-05-19 20:43:41,576 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9350
+2023-05-19 20:43:41,576 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9350
+2023-05-19 20:43:41,836 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9400
+2023-05-19 20:43:42,102 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9400
+2023-05-19 20:43:42,355 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9400
+2023-05-19 20:43:42,615 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9400
+2023-05-19 20:43:42,856 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9400
+2023-05-19 20:43:42,857 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9400
+2023-05-19 20:43:43,165 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9450
+2023-05-19 20:43:43,437 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9450
+2023-05-19 20:43:43,765 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9450
+2023-05-19 20:43:44,057 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9450
+2023-05-19 20:43:44,300 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9450
+2023-05-19 20:43:44,301 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9450
+2023-05-19 20:43:44,598 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9500
+2023-05-19 20:43:44,896 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9500
+2023-05-19 20:43:45,185 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9500
+2023-05-19 20:43:45,439 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9500
+2023-05-19 20:43:45,675 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9500
+2023-05-19 20:43:45,675 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9500
+2023-05-19 20:43:45,916 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9550
+2023-05-19 20:43:46,190 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9550
+2023-05-19 20:43:46,576 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9550
+2023-05-19 20:43:46,822 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9550
+2023-05-19 20:43:47,250 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9550
+2023-05-19 20:43:47,250 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9550
+2023-05-19 20:43:47,595 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9600
+2023-05-19 20:43:48,121 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9600
+2023-05-19 20:43:48,384 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9600
+2023-05-19 20:43:48,712 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9600
+2023-05-19 20:43:49,150 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9600
+2023-05-19 20:43:49,150 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9600
+2023-05-19 20:43:50,216 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9650
+2023-05-19 20:43:50,501 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9650
+2023-05-19 20:43:50,804 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9650
+2023-05-19 20:43:51,425 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9650
+2023-05-19 20:43:51,686 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9650
+2023-05-19 20:43:51,686 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9650
+2023-05-19 20:43:51,971 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9700
+2023-05-19 20:43:52,619 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9700
+2023-05-19 20:43:52,925 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9700
+2023-05-19 20:43:53,245 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9700
+2023-05-19 20:43:54,026 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9700
+2023-05-19 20:43:54,026 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9700
+2023-05-19 20:43:54,501 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9750
+2023-05-19 20:43:54,775 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9750
+2023-05-19 20:43:55,171 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9750
+2023-05-19 20:43:55,447 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9750
+2023-05-19 20:43:55,700 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9750
+2023-05-19 20:43:55,700 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9750
+2023-05-19 20:43:55,935 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9800
+2023-05-19 20:43:56,236 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9800
+2023-05-19 20:43:56,490 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9800
+2023-05-19 20:43:56,756 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9800
+2023-05-19 20:43:57,031 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9800
+2023-05-19 20:43:57,031 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9800
+2023-05-19 20:43:58,052 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9850
+2023-05-19 20:43:58,398 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9850
+2023-05-19 20:43:58,932 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9850
+2023-05-19 20:43:59,204 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9850
+2023-05-19 20:43:59,577 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9850
+2023-05-19 20:43:59,578 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9850
+2023-05-19 20:43:59,864 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9900
+2023-05-19 20:44:00,131 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9900
+2023-05-19 20:44:00,377 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9900
+2023-05-19 20:44:00,759 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9900
+2023-05-19 20:44:01,031 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9900
+2023-05-19 20:44:01,032 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9900
+2023-05-19 20:44:01,276 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9950
+2023-05-19 20:44:01,865 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9950
+2023-05-19 20:44:02,365 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9950
+2023-05-19 20:44:03,086 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9950
+2023-05-19 20:44:04,300 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=9950
+2023-05-19 20:44:04,300 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9950
+2023-05-19 20:44:05,529 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=10000
+2023-05-19 20:44:05,930 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=10000
+2023-05-19 20:44:06,295 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=10000
+2023-05-19 20:44:06,851 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=10000
+2023-05-19 20:44:07,472 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=10000
+2023-05-19 20:44:07,472 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=10000
+2023-05-19 21:23:27,108 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:23:36,499 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:23:43,731 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:23:51,949 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:24:02,623 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:24:02,623 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=6763
+2023-05-19 21:30:07,354 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:30:13,959 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:30:17,494 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:30:20,457 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:30:24,328 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:30:24,328 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7013
+2023-05-19 21:31:16,390 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:32:20,197 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:33:19,710 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:34:18,833 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:35:23,132 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:35:23,132 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7063
+2023-05-19 21:38:42,338 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:39:21,668 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:39:56,349 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:40:46,857 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:41:32,023 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:41:32,023 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7163
+2023-05-19 21:42:14,686 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:42:50,646 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:43:26,116 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:43:56,032 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:44:29,544 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:44:29,544 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7213
+2023-05-19 21:45:51,502 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:46:55,166 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:47:53,434 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:49:39,670 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:50:34,055 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:50:34,056 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7263
+2023-05-19 21:56:15,701 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:57:46,257 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 21:59:14,749 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:01:04,185 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:02:49,397 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:02:49,397 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7413
+2023-05-19 22:07:01,177 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:08:12,107 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:09:10,080 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:09:53,928 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:10:49,647 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:10:49,648 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7513
+2023-05-19 22:11:07,105 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:11:23,560 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:11:40,775 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:12:00,179 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:12:20,124 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:12:20,124 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7563
+2023-05-19 22:15:07,878 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:15:50,338 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:16:45,114 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:17:46,444 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:18:43,007 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:18:43,007 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7663
+2023-05-19 22:20:17,084 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:23:08,446 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:25:00,594 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:26:23,062 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:27:40,943 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:27:40,943 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7713
+2023-05-19 22:28:01,209 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:28:19,234 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:28:34,911 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:28:53,554 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:29:11,773 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:29:11,773 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7763
+2023-05-19 22:31:38,326 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:32:21,280 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:33:02,781 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:33:46,698 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:34:30,204 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:34:30,204 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7863
+2023-05-19 22:35:15,102 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:35:52,226 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:36:29,500 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:37:10,049 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:37:49,060 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:37:49,063 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7913
+2023-05-19 22:38:25,256 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:38:52,544 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:39:19,090 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:39:49,790 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:40:17,598 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:40:17,598 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=7963
+2023-05-19 22:43:23,494 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:44:40,692 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:46:05,459 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:47:29,054 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:48:49,204 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:48:49,204 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8063
+2023-05-19 22:51:42,288 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:52:42,300 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:53:49,836 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:54:44,066 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:55:36,678 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:55:36,678 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8163
+2023-05-19 22:56:09,167 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:56:33,268 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:57:01,733 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:57:29,322 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:57:55,198 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 22:57:55,198 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8213
+2023-05-19 23:04:04,971 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:05:03,599 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:06:04,754 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:07:03,530 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:08:00,813 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:08:00,813 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8413
+2023-05-19 23:08:16,867 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:08:29,631 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:08:43,006 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:08:57,266 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:09:11,224 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:09:11,224 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8463
+2023-05-19 23:10:33,613 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:11:44,164 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:12:58,312 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:14:12,364 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:15:25,224 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:15:25,224 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8513
+2023-05-19 23:16:15,988 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:16:59,047 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:17:44,854 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:18:24,190 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:19:08,795 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:19:08,795 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8563
+2023-05-19 23:19:43,905 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:20:13,716 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:20:44,681 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:21:14,927 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:21:46,287 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:21:46,287 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8613
+2023-05-19 23:27:44,968 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:28:30,742 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:29:12,640 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:29:54,988 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:30:32,454 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:30:32,454 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=8813
+2023-05-19 23:31:57,661 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 23:33:07,774 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:30:08,799 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:30:53,041 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:31:41,248 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:31:44,894 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:31:47,831 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:31:51,966 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:31:55,044 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:31:55,044 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9038
+2023-05-20 08:33:07,722 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:34:16,857 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:35:00,287 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:35:49,508 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:36:37,320 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:36:37,320 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9050
+2023-05-20 08:40:23,553 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:48:54,609 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:48:59,307 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:49:03,228 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:49:07,871 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:49:12,105 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:49:12,105 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9100
+2023-05-20 08:53:54,013 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:55:27,210 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:57:50,459 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 08:59:49,132 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:01:49,442 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:02:21,456 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9152
+2023-05-20 09:05:46,426 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:05:52,552 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:08:56,649 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:09:53,568 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:10:52,758 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:11:57,988 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:12:59,032 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:13:31,045 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9245
+2023-05-20 09:15:58,824 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:16:36,756 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:17:15,086 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:18:06,450 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:18:56,613 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:19:28,621 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9275
+2023-05-20 09:29:32,463 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:30:08,452 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:30:52,463 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:31:34,684 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:32:22,277 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:32:54,285 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9575
+2023-05-20 09:33:34,292 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:34:01,463 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:34:30,177 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:35:02,991 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:40:12,420 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:40:26,403 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:40:40,469 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:40:58,361 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:41:25,974 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:41:57,984 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9760
+2023-05-20 09:48:47,688 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:49:06,317 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:49:26,912 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:49:55,485 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:50:30,566 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:51:02,579 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9820
+2023-05-20 09:52:46,966 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:53:57,159 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:54:54,278 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:56:28,232 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:57:56,448 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 09:58:28,463 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9832
+2023-05-20 10:00:21,306 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:00:49,382 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:01:16,847 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:01:41,946 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:02:18,230 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:02:50,238 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9867
+2023-05-20 10:04:26,916 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:05:05,877 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:06:04,459 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:07:06,805 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:08:23,446 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:08:55,455 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=9900
+2023-05-20 10:15:56,792 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:16:19,792 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:16:45,208 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:17:26,655 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:17:55,343 ERROR:'NoneType' object has no attribute 'parent'

@@ -1,0 +1,40 @@
+2023-05-19 18:32:57,195 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:33:09,089 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:33:22,156 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:33:40,440 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:34:06,795 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:34:38,807 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=10131
+2023-05-19 18:51:18,758 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:51:27,060 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:51:35,073 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:51:47,517 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:52:09,746 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:52:41,750 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=10166
+2023-05-19 18:54:13,434 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:54:52,023 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:54:56,414 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=10675
+2023-05-19 18:55:04,614 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=10675
+2023-05-19 18:55:20,811 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=10675
+2023-05-19 18:55:52,821 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=10675
+2023-05-20 10:20:31,046 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:20:55,032 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:21:47,961 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:22:07,776 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:22:35,530 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:22:43,068 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:23:05,520 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:23:11,323 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:23:20,068 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:23:54,550 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:24:10,077 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:24:24,277 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:24:46,594 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:25:13,577 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:25:45,589 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=12000
+2023-05-20 10:49:54,532 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:49:59,392 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:50:08,067 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:50:26,668 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:50:31,359 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:50:37,996 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-20 10:50:50,656 ERROR:'NoneType' object has no attribute 'parent'

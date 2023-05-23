@@ -1,0 +1,32 @@
+2023-05-19 18:31:56,016 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:31:59,863 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:32:05,495 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:32:15,306 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:32:32,993 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:33:05,002 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=15011
+2023-05-19 18:51:23,192 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:51:28,183 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:51:35,327 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:51:45,561 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:52:03,446 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:52:35,452 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=15011
+2023-05-19 18:53:46,882 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:53:52,437 ERROR:'NoneType' object has no attribute 'parent'
+2023-05-19 18:55:13,070 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=15011
+2023-05-19 18:55:15,317 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=15011
+2023-05-19 18:55:19,503 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=15011
+2023-05-19 18:55:27,694 ERROR:429 Client Error: Too Many Requests for url: https://myanimelist.net/topanime.php?limit=15011
+2023-05-20 11:50:01,704 ERROR:("Connection broken: ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None)", ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2023-05-20 13:01:12,689 ERROR:("Connection broken: ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None)", ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2023-05-20 13:01:36,923 ERROR:("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2023-05-20 13:01:40,937 ERROR:HTTPSConnectionPool(host='myanimelist.net', port=443): Max retries exceeded with url: /topanime.php?limit=19502 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B3047B81C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2023-05-20 13:01:48,940 ERROR:HTTPSConnectionPool(host='myanimelist.net', port=443): Max retries exceeded with url: /topanime.php?limit=19502 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B3056D21C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2023-05-20 13:02:04,943 ERROR:HTTPSConnectionPool(host='myanimelist.net', port=443): Max retries exceeded with url: /topanime.php?limit=19502 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B3056D2580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2023-05-20 13:02:36,955 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=19502
+2023-05-20 13:12:21,681 ERROR:("Connection broken: ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None)", ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2023-05-20 13:18:39,693 ERROR:('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2023-05-20 13:19:28,517 ERROR:('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
+2023-05-20 13:19:32,527 ERROR:HTTPSConnectionPool(host='myanimelist.net', port=443): Max retries exceeded with url: /topanime.php?limit=19674 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002B5439ED640>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2023-05-20 13:19:40,542 ERROR:HTTPSConnectionPool(host='myanimelist.net', port=443): Max retries exceeded with url: /topanime.php?limit=19674 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002B5439ED4F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2023-05-20 13:19:56,547 ERROR:HTTPSConnectionPool(host='myanimelist.net', port=443): Max retries exceeded with url: /topanime.php?limit=19674 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002B5439ED640>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2023-05-20 13:20:28,552 ERROR:Failed to scrape data from https://myanimelist.net/topanime.php?limit=19674
